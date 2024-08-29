@@ -1,6 +1,7 @@
-import React from 'react'
-import AddTodo from './addTodo'
-import Todos from './Todos'
+import React from 'react';
+// import AddTodo from './addTodo'
+import AddTodo from './AddTodo.jsx';
+import Todos from './Todos.jsx'
 
 function AppTodo() {
     return (
